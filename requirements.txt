@@ -1,0 +1,22 @@
+streamlit
+groq
+python-dotenv
+langdetect
+PyPDF2
+Pillow
+SpeechRecognition
+pyttsx3
+gTTS
+opencv-python-headless # Use headless for servers
+streamlit-webrtc
+requests
+
+pytesseract
+# For En->Pa PDF Translator:
+google-generativeai
+reportlab
+camelot-py[cv] # cv extra installs opencv, use headless above if preferred
+pandas
+numpy
+# For Offline Speech:
+pocketsphinx
