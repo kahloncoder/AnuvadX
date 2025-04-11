@@ -42,12 +42,19 @@ AnuvadX offers a suite of features accessible through intuitive tabs:
 *   **How It Helps:** Offers an interactive, multi-modal experience for on-the-go analysis, accessibility for visually impaired users, and a dynamic way to query the real world.
 
 AnuvadX/
+
 ├── app.py # Main Streamlit application file, includes UI and logic for most tabs
+
 ├── pdf_translator_en_pa.py # Module containing the En->Pa PDF translation logic
+
 ├── requirements.txt # Python dependencies
+
 ├── .env # File for storing API keys (GROQ_API_KEY, GEMINI_API_KEY)
+
 ├── NotoSansGurmukhi-Regular.ttf # Required font for Punjabi PDF output
+
 ├── NotoSansGurmukhi-Bold.ttf # Required font for Punjabi PDF output
+
 └── README.md # This file
 
 ## Technical Stack
